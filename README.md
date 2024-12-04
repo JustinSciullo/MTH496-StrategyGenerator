@@ -7,3 +7,10 @@ In an offline guessing game, there is a player called the Questioner and a playe
 For some $n$ and $l$, we say that the least number of questions needed for the questioner to be able to win is the optimal strategy. We are interested in finding strategies that are winning for the Questioner because they give an upper bound to the optimal strategy given some $n$ andd $l$.
 
 ## Code
+There are three files included in this repository.
+
+**Question.py** - A class used to represent a question.
+
+**Strategy.py** - A class used to represent a strategy.
+
+**Strategy_Finder.py** - Two functions that were used to search for winning strategies.
